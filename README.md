@@ -1,4 +1,4 @@
-check issues links for more info.
+# jimmy - check issues links for more info.
 # Pandora
 
 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。

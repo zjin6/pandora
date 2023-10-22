@@ -1,5 +1,5 @@
 # jimmy - check issues links for more info.
-https://github.com/zhile-io/pandora
+# https://github.com/zhile-io/pandora
 
 # Pandora
 
